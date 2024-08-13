@@ -1,4 +1,4 @@
-/* ransformando o menu hamburguer em X */
+/* transformando o menu hamburguer em X */
 
 const menuHamburguer = document.querySelector('.menu-hamburguer')
 menuHamburguer.addEventListener('click', () => {
